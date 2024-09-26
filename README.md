@@ -18,39 +18,34 @@ Our DApp utilizes the inherent transparency and immutability of blockchain to pr
 
 ## Instruction
 
-Kindly follow the following Instructions to run the project in your system and install the necessary requirements47
+Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. installtion</p>
-
+### 1. Installtion
+```bash
 git clone  https://github.com/ThisIsSahaj/SupplyChainManagement.git
-
-
-
+```
+```bash
 cd SupplyChainManagement
+```
 
-
-<p>2.nstall dependencies</p>
-
+### 2.Install dependencies
+```bash
 npm i
-
-<p>3. hardhat installtion</p>
-
-
+```
+### 3. Hardhat installtion
+```bash
 npm install --save-dev hardhat
+```
 
-
-<p>4. run hardhat</p>
-
-
+### 4. run Hardhat
+```bash
 npx hardhat node
-
-
-<p>5. deploy</p>
-
-
+```
+### 5. deploy
+```bash
 npx hardhat run --network localhost scripts/deploy.js
-
+```
 
 #### RemixID
 
