@@ -51,11 +51,9 @@ npx hardhat run --network localhost scripts/deploy.js
 
 We are using RemixID for deploying the contract and generation of the ABI in the project, but you can use any other tools like Hardhat, etc.
 
-https://remix-project.org
-  OPEN: RemixID
+[OPEN: RemixID](https://remix-project.org)
 
 
 #### Polygon Mumbai
 
-https://mumbai.polygonscan.com/
-  OPEN: Polygon Mumbai
+[OPEN: Polygon Mumbai](https://mumbai.polygonscan.com/)
